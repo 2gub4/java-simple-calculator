@@ -42,6 +42,12 @@ The project follows an Object-Oriented approach, separating logic (calculations)
 
 ---
 
+Icon Source
+
+<a href="https://www.flaticon.com/free-icons/calculators" title="calculators icons">Calculators icons created by Freepik - Flaticon</a>
+
+---
+
 ## Author
 * **Jakub Sosna** – Core logic, UI design, and hardware-style implementation.
 
@@ -96,5 +102,11 @@ Projekt został zrealizowany w podejściu obiektowym, z wyraźnym oddzieleniem l
 2. Użyj przycisków GUI lub klawiatury do wprowadzania liczb i operatorów.
 3. Użyj `C`, aby zresetować cały stan, lub `CE`, aby usunąć aktualnie wpisywaną liczbę.
 4. Sprawdź plik `calcLogs.txt` w katalogu projektu, aby przejrzeć historię obliczeń.
+
+---
+
+Icon Source
+
+<a href="https://www.flaticon.com/free-icons/calculators" title="calculators icons">Calculators icons created by Freepik - Flaticon</a>
 
 ---
