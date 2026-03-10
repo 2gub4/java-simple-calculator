@@ -110,3 +110,5 @@ Icon Source
 <a href="https://www.flaticon.com/free-icons/calculators" title="calculators icons">Calculators icons created by Freepik - Flaticon</a>
 
 ---
+
+README.md created with generative AI
